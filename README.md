@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ugo! <br/>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻</h2>
 
 
 
