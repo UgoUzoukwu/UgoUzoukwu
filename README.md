@@ -1,7 +1,7 @@
 <h1>Hi, I'm Ugo! <br/>
 
 <h2>👨‍💻</h2>
-# Hi, I'm Ugonna Uzoukwu! 👋
+ Hi, I'm Ugonna Uzoukwu! 👋
 
 🚀 **Aspiring Cloud Engineer** | **Azure Certified** | IT Support Specialist  
 🌍 Based in Baltimore, MD | 🌐 Building my journey into cloud computing  
