@@ -8,6 +8,17 @@
 
 ---
 
+<h2>🖥️ Information Technology Projects🖥</h2>
+
+- <b> osTicket: Creating a Ticketing System for Help Desk </b>
+  - [osTicket: Prerequisites and Installation](https://github.com/UgoUzoukwu/Creating-OsTicket-Pre)
+  - [osTicket: Post-Installation Configuration](https://github.com/UgoUzoukwu/OsTicket-Post-Install-Config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/UgoUzoukwu/How-Tickets-Get-Opened-Closed)
+
+
+---
+
+
 ## 🛠️ My Tech Stack
 - **Cloud Platforms**: Azure, VMware
 - **Networking**: DNS, DHCP, TCP/IP, Firewall Configuration
