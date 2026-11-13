@@ -1,77 +1,51 @@
-<h1>Hi, I'm Ugo! <br/>
+# Ugonna Uzoukwu
 
-<h2>👨‍💻</h2>
- Hi, I'm Ugonna Uzoukwu! 👋
+**Junior Systems Administrator · Baltimore, MD**
 
-🚀 **Aspiring Cloud Engineer** | **Azure Certified** | IT Support Specialist  
-🌍 Based in Baltimore, MD | 🌐 Building my journey into cloud computing  
+I run Microsoft 365, Entra ID and Intune for a law firm. Before that I supported 1,200+ networked printers and workstations at Johns Hopkins Bayview Medical Center, including devices in the OR, ED and ICUs.
 
----
+I look for problems no one assigned, test changes before rollout, and write down the fix.
 
-<h2>🖥️ Information Technology Projects🖥</h2>
+## What I work with
 
-- <b> osTicket: Creating a Ticketing System for Help Desk </b>
-  - [osTicket: Prerequisites and Installation](https://github.com/UgoUzoukwu/Creating-OsTicket-Pre)
-  - [osTicket: Post-Installation Configuration](https://github.com/UgoUzoukwu/OsTicket-Post-Install-Config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/UgoUzoukwu/How-Tickets-Get-Opened-Closed)
-- <b>Microsoft Azure</b>
-  - [Setting Up Active Directory using Azure VMs](https://github.com/UgoUzoukwu/AD-AZURE-SETUP)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/UgoUzoukwu/azure-networking-protocols/tree/main)
-- <b>Virtual Private Network</b>
-  - [VPN Setup in Virtual Machine ](https://github.com/UgoUzoukwu/VPN-SETUP)
+| Area | Tools |
+| --- | --- |
+| Identity and Microsoft 365 | Entra ID (MFA, Conditional Access, SAML SSO), Entra Connect hybrid identity, Active Directory, Exchange Online, SharePoint, Teams |
+| Endpoints | Intune (Autopilot, Autopatch, compliance, security baselines), Defender Advanced Hunting (KQL), PowerShell remediation scripts |
+| Servers and network | Windows Server 2019 (AD DS, DNS, DHCP, GPO), Hyper-V, Cisco Meraki |
+| Healthcare and legal IT | HIPAA environments, ServiceNow, NetDocuments |
+| Scripting | PowerShell, Python |
 
+## Recent work
 
----
+- Rebuilt admin access on Microsoft's tiered administration model with separate accounts for on-prem, cloud and daily work.
+- Removed unneeded local admin rights: found affected devices with a KQL query, then deployed a PowerShell remediation through Intune.
+- Ended 90-minute sign-outs in a federated app by adding a SAML session timeout claim in Entra ID.
+- Built a mail room tracker web app that staff use daily, then fixed and retested the bugs they reported.
+- Building a monitor that tests document management login, search and retrieval every 60 seconds and alerts to Teams.
 
+## Projects
 
-## 🛠️ My Tech Stack
-- **Cloud Platforms**: Azure, VMware
-- **Networking**: DNS, DHCP, TCP/IP, Firewall Configuration
-- **System Administration**: Active Directory, Windows Server, Linux Basics
-- **Programming**: Python, Bash, PowerShell
-- **Tools**: ServiceNow, Git, Microsoft Remote Desktop, TeamViewer
+**Scripts**
 
----
+- [python-network-automation](https://github.com/UgoUzoukwu/python-network-automation): pings a list of hosts and writes a connectivity report
 
-## 🌟 Highlights
-- **Certifications**: Microsoft Azure Fundamentals (AZ-900),
-- **Projects**: Virtualized Windows Domain Controller, Ubuntu File Server Integration
-- **Learning**: Follow my journey as I build skills in cloud, DevOps, and system administration.
+**Labs**
 
----
+Step-by-step builds on Azure virtual machines, with screenshots.
 
-## 📚 Current Focus
-1. Building cloud-based projects with Azure
-2. Learning infrastructure-as-code tools like Terraform
-3. Developing automation scripts using Python
+- Active Directory: [domain controller, users and Group Policy on Azure VMs](https://github.com/UgoUzoukwu/AD-AZURE-SETUP)
+- Networking: [Network Security Groups and protocol inspection with Wireshark](https://github.com/UgoUzoukwu/azure-networking-protocols)
+- Help desk: osTicket [installation](https://github.com/UgoUzoukwu/Creating-OsTicket-Pre), [configuration](https://github.com/UgoUzoukwu/OsTicket-Post-Install-Config) and [ticket lifecycle](https://github.com/UgoUzoukwu/How-Tickets-Get-Opened-Closed)
+- Cloud: [static website on Azure Storage](https://github.com/UgoUzoukwu/azure-static-website)
+- VPN: [routing a VM through a VPN](https://github.com/UgoUzoukwu/VPN-SETUP)
 
----
+## Certifications
 
-📫 **How to Reach Me**:  
-[📧 Email](mailto:ugonnauzoukwu0@gmail.com) | [🔗 LinkedIn](https://linkedin.com/in/ugonnauzoukwu)  
+- Microsoft 365 Certified: Endpoint Administrator Associate (MD-102), in progress
+- Microsoft Azure Fundamentals (AZ-900)
+- Cyber & Network Security Bootcamp, University of Maryland Global Campus
 
+## Contact
 
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/ugonna_AU
-[youtube]: https://www.youtube.com/c/trevor_uu
-[instagram]: https://www.instagram.com/ugonna_au/
-[linkedin]: https://www.linkedin.com/in/ugonnauzoukwu
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/ugonnauzoukwu) · [Email](mailto:ugonnauzoukwu0@gmail.com)
